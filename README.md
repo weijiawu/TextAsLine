@@ -24,15 +24,12 @@
 
 
 ###Citing the related work
+
 &#160;&#160;&#160;&#160; &#160;&#160;Please cite the paper in your publications if it helps your research:
 
-@article{TextsAsLines,
- 
- title = {Texts as Lines:Weakly Supervised Text Detection with Text Lines},
-
- author = {Weijia Wu,Jici Xing,Hong Zhou},
- 
- journal = {-},
- 
- year = {2019}
+@article{TextsAsLines,  
+ title = {Texts as Lines:Weakly Supervised Text Detection with Text Lines},  
+ author = {Weijia Wu,Jici Xing,Hong Zhou},  
+ journal = {-}, 
+ year = {2019}  
 }
